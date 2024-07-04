@@ -11,6 +11,8 @@ The housing dataset is available on Kaggle under “House Prices: Advanced Regre
 
 # Tasks-Performed
 •	Pre-processed and performed feature engineering on data having more than 80 features to predict Housing prices
+
 •	Performed Feature Scaling and One Hot Encoding on significant features selected from Heatmap
+
 •	Applied models such as Decision Trees, Random Forest Regressor and XGBoost to achieve Root Mean Squared Error of 0.14155
 
